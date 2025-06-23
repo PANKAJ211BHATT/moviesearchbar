@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return;
       }
 
-      const YOUR_API_KEY = "fa7a2011"; // Move to env var in production
+      const YOUR_API_KEY = "${YOUR_API_KEY}"; 
       const URL = `http://www.omdbapi.com/?apikey=${YOUR_API_KEY}&t=${btnvalue}`;
 
       try {
