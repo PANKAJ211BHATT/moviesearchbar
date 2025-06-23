@@ -16,8 +16,8 @@ A simple and clean web app built using HTML, CSS, and JavaScript that lets users
 
 ## 📷 Preview
 
-![Screenshot of Search Page](preview/search-page.png)  
-![Screenshot of Movie Details Page](preview/details-page.png)
+![Screenshot of Search Page](preview/)  
+![Screenshot of Movie Details Page](preview)
 
 ---
 
